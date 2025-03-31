@@ -15,6 +15,7 @@ class StudentNavigationScreen extends StatelessWidget {
         Icons.home,
       ),
       label: "Home",
+      backgroundColor: Colors.red,
     ),
     BottomNavigationBarItem(
       icon: Icon(
